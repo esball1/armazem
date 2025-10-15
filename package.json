@@ -1,0 +1,9 @@
+{
+  "name": "planta-baixa-armazem",
+  "version": "1.0.0",
+  "description": "Planta baixa de armazém para 100.000 latas de milho",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s ."
+  }
+}
